@@ -41,7 +41,7 @@ I'm on a journey to enhance my skills in **programming**, **version control**, a
 
 ## 📫 Contact
 - 📧 Email: ebrahimjaseer@gmail.com  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile] 
+- 🔗 LinkedIn: https://www.linkedin.com/in/ahamed-jaseer-sha-5319a0351 
 - 🐱 GitHub: [https://github.com/24013621]
 
 ---
